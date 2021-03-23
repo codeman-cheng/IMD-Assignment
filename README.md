@@ -8,3 +8,5 @@
 ## Assignment
 
 1. [Lab 1. Kick off](./Assignment/Lab1/Kick_off.md)
+
+2. [Lab 2. GetStarted](./Assignment/Lab2/GetStarted.md)
