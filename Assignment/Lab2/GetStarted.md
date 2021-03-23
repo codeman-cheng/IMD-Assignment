@@ -2,7 +2,7 @@
 
 > my first AndroidStudio project - Hello World !
 
-[toc]
+
 
 ## Create my first Android project - Hello World
 
