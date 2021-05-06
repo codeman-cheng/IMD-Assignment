@@ -11,6 +11,8 @@
     - [MainActivity.java](#mainactivityjava)
     - [SecondActivity.java](#secondactivityjava)
     - [activity_second.xml](#activity_secondxml)
+    - [activity_main.xml](#activity_mainxml)
+    - [color.xml](#colorxml)
     - [string.xml](#stringxml)
 ## Screenshot
 ### Program ScreenShot
@@ -194,6 +196,7 @@ public class SecondActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 
+### activity_main.xml
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -273,7 +276,7 @@ public class SecondActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 
-
+### color.xml
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
