@@ -12,4 +12,7 @@
 3. [Lab 3. Hello Toast](./Assignment/Lab3/HelloToast.md)
 4. [Lab 4. Say Hello](./Assignment/Lab4/SayHello.md)
 5. [Lab 5.  Implict Intents](./Assignment/Lab5/ImplicitIntents.md)
+6. [Lab 6. Droid Cafe](./Assignment/Lab6/DroidCafe.md)
+7. []
+8. [Lab 8.](.)
 
