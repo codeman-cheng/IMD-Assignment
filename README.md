@@ -14,5 +14,5 @@
 5. [Lab 5.  Implict Intents](./Assignment/Lab5/ImplicitIntents.md)
 6. [Lab 6. Droid Cafe](./Assignment/Lab6/DroidCafe.md)
 7. []
-8. [Lab 8.](.)
+8. [Lab 8. MaterialMe-Starter](./Assignment/Lab8/MaterialMe-Starter.md)
 
