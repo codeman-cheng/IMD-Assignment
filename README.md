@@ -13,6 +13,9 @@
 4. [Lab 4. Say Hello](./Assignment/Lab4/SayHello.md)
 5. [Lab 5.  Implict Intents](./Assignment/Lab5/ImplicitIntents.md)
 6. [Lab 6. Droid Cafe](./Assignment/Lab6/DroidCafe.md)
-7. []
+7. [Lab7](./Assignment/Lab7)
+   - [Part A](./Assignment/Lab7/PartA.md)
+   - [Part B](./Assignment/Lab7/PartB.md)
+   - [Part C](./Assignment/Lab7/PartC.md)
 8. [Lab 8. MaterialMe-Starter](./Assignment/Lab8/MaterialMe-Starter.md)
 
