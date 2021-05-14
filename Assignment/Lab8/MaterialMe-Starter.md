@@ -1,6 +1,6 @@
-# Lab6-MaterialMe-Starter
+# Lab8-MaterialMe-Starter
 
-- [Lab6-MaterialMe-Starter](#lab6-materialme-starter)
+- [Lab8-MaterialMe-Starter](#lab8-materialme-starter)
   - [Screenshot](#screenshot)
     - [Program ScreenShot](#program-screenshot)
     - [Layout ScreenShot](#layout-screenshot)
